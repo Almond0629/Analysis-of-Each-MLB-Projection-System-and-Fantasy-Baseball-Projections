@@ -1,3 +1,5 @@
+# Analysis of Each MLB Projection System and Fantasy Baseball Projections (2025-2026)
+
 Scraps Yahoo Fantasy ADP data and Fangraphs projected stats from each projection system with Selenium.
 
 Compared the performance of the last 3 years of each MLB projection system available on Fangraphs (as of March of 2026), and create an aggregate projection of selected players based on which system performs best in each stat.
